@@ -67,6 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AlertsDemo.html" />
+    <Content Include="ButtonsDemo.html" />
+    <Content Include="Card.html" />
+    <Content Include="CollapseDemo.html" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -89,6 +93,9 @@
     <Content Include="Images\tdd.png" />
     <Content Include="Images\udemyCoupon.jpg" />
     <Content Include="Images\unnamed.png" />
+    <Content Include="NavBar.html" />
+    <Content Include="PagerDemo.html" />
+    <Content Include="Progressbar.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -96,6 +103,8 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="TableDemo.html" />
+    <Content Include="TabsAndPillsDemo.html" />
+    <Content Include="Tooltip.html" />
     <Content Include="TypographyDemo.html" />
     <Content Include="UsingCDN.html" />
     <Content Include="UsingNuget.html" />
